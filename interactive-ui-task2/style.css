@@ -1,0 +1,29 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.btn-primary {
+  background-color: #3b71ca;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #2b56a5;
+  transition: 0.3s;
+}
+
+#togglePassword,
+#toggleLoginPassword {
+  cursor: pointer;
+}
+
+input:focus {
+  box-shadow: 0 0 4px rgba(59,113,202,0.5);
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
