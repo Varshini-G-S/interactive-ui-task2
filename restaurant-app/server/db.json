@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "id": "p1",
+      "name": "Margherita Pizza",
+      "description": "Classic pizza with fresh tomato & mozzarella.",
+      "price": 8.99,
+      "image": ""
+    },
+    {
+      "id": "p2",
+      "name": "Veg Burger",
+      "description": "Grilled veggie patty with lettuce & tomato.",
+      "price": 6.49,
+      "image": ""
+    },
+    {
+      "id": "p3",
+      "name": "Caesar Salad",
+      "description": "Crisp romaine, parmesan, croutons & Caesar dressing.",
+      "price": 5.99,
+      "image": ""
+    }
+  ],
+  "orders": []
+}
